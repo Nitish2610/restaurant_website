@@ -17,9 +17,4 @@ Check out the live demo of the website: [ https://nitish2610.github.io/restauran
 - HTML5
 - CSS3
 
-## Usage
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/responsive-website.git
